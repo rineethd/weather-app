@@ -1,4 +1,4 @@
-const API_BASE = "https://nni7addfgg.execute-api.us-east-1.amazonaws.com/dev";
+const API_BASE = "https://pgsnmpymej.execute-api.us-east-1.amazonaws.com/prod";
 
 type CacheEntry<T = any> = {
   timestamp: number;    // when stored in memory cache
