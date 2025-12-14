@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:8080";
+const API_BASE = "http://k8s-weatherp-weatherp-8423b96f62-1981315090.us-east-1.elb.amazonaws.com";
 
 type CacheEntry<T = any> = {
   timestamp: number;    // when stored in memory cache
